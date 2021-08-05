@@ -31,7 +31,7 @@ class ColorfulIconServiceProvider extends ServiceProvider
 	{
         parent::init();
 
-        Admin::requireAssets('@zhy.colorful-icon');
+        Admin::requireAssets('@zhy.dcat-color-icon');
 
         Form::extend('colorIcon',ColorIcon::class);
 
