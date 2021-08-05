@@ -5,6 +5,7 @@
 ![](http://cimg.mxrxlb.com/images/f60ea3750a00d12ac4a1a1ffe30f2d50.png)
 
 
+
 ## 安装方式
 
 最新支持 Dcat Admin 2.1.2beta
@@ -17,6 +18,7 @@
 
 在菜单 `扩展` 中启用扩展后，会自动替换原`菜单页`icon选择组件。
 
+![](http://cimg.mxrxlb.com/images/menu-icon.png)
 ### 功能
 
 - 菜单彩色Icon
