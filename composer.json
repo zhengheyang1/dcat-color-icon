@@ -1,0 +1,32 @@
+{
+    "name": "zhy/colorful-icon",
+    "alias": "Dcat 彩色Icon",
+    "description": "为Dcat增加图标支持",
+    "type": "library",
+    "keywords": ["dcat-admin", "extension"],
+    "homepage": "https://github.com/zhengheyang1/dcat-color-icon",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Zhy",
+            "email": "993409033@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.1.0",
+        "dcat/laravel-admin": "~2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Zhy\\ColorfulIcon\\": "src/"
+        }
+    },
+    "extra": {
+        "dcat-admin": "Zhy\\ColorfulIcon\\ColorfulIconServiceProvider",
+        "laravel": {
+            "providers": [
+                "Zhy\\ColorfulIcon\\ColorfulIconServiceProvider"
+            ]
+        }
+    }
+}
