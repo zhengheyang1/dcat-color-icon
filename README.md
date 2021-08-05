@@ -2,6 +2,9 @@
 
 为 DcatAdmin 后台菜单添加彩色Icon支持的功能。。
 
+![](http://cimg.mxrxlb.com/images/f60ea3750a00d12ac4a1a1ffe30f2d50.png)
+
+
 ## 安装方式
 
 最新支持 Dcat Admin 2.1.2beta
