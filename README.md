@@ -6,7 +6,7 @@
 
 最新支持 Dcat Admin 2.1.2beta
 
-`composer require zhy/colorful-icon`
+`composer require zhy/dcat-color-icon`
 
 或者在后台扩展中，直接上传本插件的 `.zip` 文件即可。
 

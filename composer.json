@@ -1,5 +1,5 @@
 {
-    "name": "zhy/colorful-icon",
+    "name": "zhy/dcat-color-icon",
     "alias": "Dcat 彩色Icon",
     "description": "为Dcat增加图标支持",
     "type": "library",
